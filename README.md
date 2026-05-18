@@ -8,7 +8,7 @@ A Java-based Object-Oriented Programming project for managing utility bills and 
 - Add and manage customer records
 - Calculate utility bills
 - File handling for data storage
-- Menu-driven console interface
+- Menu-driven GUI interface
 
 ---
 
@@ -28,7 +28,7 @@ A Java-based Object-Oriented Programming project for managing utility bills and 
 ## ▶ How to Run
 1. Open project in NetBeans
 2. Build and run the project
-3. Use the console menu interface
+3. Use the GUI menu interface
 
 ---
 
@@ -36,4 +36,4 @@ A Java-based Object-Oriented Programming project for managing utility bills and 
 This project was built to strengthen understanding of:
 - OOP concepts
 - Java file handling
-- Console-based application design
+- GUI-based application design
